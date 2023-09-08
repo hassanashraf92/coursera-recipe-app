@@ -1,0 +1,136 @@
+{
+  "recipes": [
+    {
+      "imageName": "pasta.jpg",
+      "title": "Creamy Pasta",
+      "creator": "John Doe",
+      "timeToMake": "30 minutes",
+      "calories": "350",
+      "isFavourite": true,
+      "description": "Delicious homemade pasta with tomato sauce.",
+      "ingredients": [
+        {
+          "image": "pasta_ingredients.jpg",
+          "name": "Pasta"
+        },
+        {
+          "image": "tomato_sauce.jpg",
+          "name": "Tomato Sauce"
+        },
+        {
+          "image": "cheese.jpg",
+          "name": "Cheese"
+        }
+      ]
+    },
+    {
+      "imageName": "salad.jpg",
+      "title": "Caesar Salad",
+      "creator": "Jane Smith",
+      "timeToMake": "15 minutes",
+      "calories": "200",
+      "isFavourite": false,
+      "description": "Refreshing and healthy mixed green salad.",
+      "ingredients": [
+        {
+          "image": "lettuce.jpg",
+          "name": "Lettuce"
+        },
+        {
+          "image": "cucumber.jpg",
+          "name": "Cucumber"
+        },
+        {
+          "image": "tomato.jpg",
+          "name": "Tomato"
+        },
+        {
+          "image": "olive_oil.jpg",
+          "name": "Olive Oil"
+        }
+      ]
+    },
+    {
+      "imageName": "pizza.jpg",
+      "title": "Ranch Pizza",
+      "creator": "Mario Rossi",
+      "timeToMake": "45 minutes",
+      "calories": "450",
+      "isFavourite": true,
+      "description": "Classic Italian pizza with various toppings.",
+      "ingredients": [
+        {
+          "image": "dough.jpg",
+          "name": "Pizza Dough"
+        },
+        {
+          "image": "tomato_sauce.jpg",
+          "name": "Tomato Sauce"
+        },
+        {
+          "image": "cheese.jpg",
+          "name": "Cheese"
+        },
+        {
+          "image": "pepperoni.jpg",
+          "name": "Pepperoni"
+        }
+      ]
+    },
+    {
+      "imageName": "smoothie.jpg",
+      "creator": "Emily Johnson",
+      "title": "Smoothie",
+      "timeToMake": "10 minutes",
+      "calories": "150",
+      "isFavourite": false,
+      "description": "Refreshing and nutritious fruit smoothie.",
+      "ingredients": [
+        {
+          "image": "banana.jpg",
+          "name": "Banana"
+        },
+        {
+          "image": "strawberry.jpg",
+          "name": "Strawberry"
+        },
+        {
+          "image": "blueberry.jpg",
+          "name": "Blueberry"
+        },
+        {
+          "image": "yogurt.jpg",
+          "name": "Yogurt"
+        }
+      ]
+    },
+    {
+      "imageName": "sushi.jpg",
+      "title": "Sushi",
+      "creator": "Sakura Tanaka",
+      "timeToMake": "60 minutes",
+      "calories": "300",
+      "isFavourite": true,
+      "description": "Homemade sushi rolls with fresh ingredients.",
+      "ingredients": [
+        {
+          "image": "rice.jpg",
+          "name": "Sushi Rice"
+        },
+        {
+          "image": "nori.jpg",
+          "name": "Nori Seaweed"
+        },
+        {
+          "image": "fish.jpg",
+          "name": "Fresh Fish"
+        },
+        {
+          "image": "avocado.jpg",
+          "name": "Avocado"
+        }
+      ]
+    }
+  ]
+}
+
